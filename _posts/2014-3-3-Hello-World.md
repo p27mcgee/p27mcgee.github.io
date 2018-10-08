@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Goodbye, Button!
+title: Goodbye, button!
 ---
 
 Hello, world!  It's an honored tradition in computer programming, dating back to 1978 and the classic "The C Programming Language" by Brian Kernighan and Dennis Ritchie.  The idea is simple:  write a minimal computer program to demonstrate the most basic functionality.  You pick the language (or framework) and make something work.  It's a foundation, of almost nothing, on which you hope you can build almost anything.
