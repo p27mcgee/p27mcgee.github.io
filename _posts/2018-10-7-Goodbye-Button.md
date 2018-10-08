@@ -9,4 +9,4 @@ Now let's change the context of the challenge a bit. If instead of wanting to  "
 
 So what's "Goodbye, Button"?  I found the project I want to contribute to, and I found a feature enhancement I'd like to implement as my first attempt at collaborative open source development.  When a displayed list of scripts to run is empty, I'm going to remove (or gray-out) the "Run" button associated with the list.  Goodbye, Button!  I expect it to be the most complex, most sweated over, most fretted over, "if-else statement" I have ever written.
 
-Details to come.
+Details to follow.
